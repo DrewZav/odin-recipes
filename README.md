@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes This is my first project on the odin project. I will be creating a recipes website just using HTML and will reshape it when I learn CSS. Got a bit held up so I rushed this to learn css and design more later.
